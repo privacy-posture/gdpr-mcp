@@ -483,6 +483,3 @@ gdpr-mcp/
 └── README.md
 ```
 
-## License
-
-MIT
